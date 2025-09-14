@@ -1,0 +1,30 @@
+Exception occurred in main I/O
+CPUID: EBX=0x00000000, ECX=0x00000000, EDX=0x00000000
+Exception occurred in detectVMware
+Not VMware.
+Exception occurred in main I/O
+CPUID: EBX=0x00000000, ECX=0x00000000, EDX=0x00000000
+Exception occurred in sub_50AE90_like
+VMWARE NOT DETECTED BY sub_50AE90_like
+Exception occurred in detectVMware
+VMWARE NOT DETECTED BY PORT
+CPUID Signature: 
+Not VMware.
+Exception occurred in main I/O
+CPUID: EBX=0x00000000, ECX=0x00000000, EDX=0x00000000
+Exception occurred in sub_50AE90_like
+VMWARE NOT DETECTED BY sub_50AE90_like
+Exception occurred in detectVMware
+VMWARE NOT DETECTED BY PORT
+CPUID Signature: 
+Not VMware.
+Exception occurred in main I/O
+CPUID: EBX=0x00000000, ECX=0x00000000, EDX=0x00000000
+Exception occurred in sub_50AE90_like
+VMWARE NOT DETECTED BY sub_50AE90_like
+Exception occurred in detectVMware
+VMWARE NOT DETECTED BY PORT
+VMware registry detected!
+VMWARE DETECTED BY REGISTRY
+CPUID Signature: 
+Not VMware.

@@ -1,0 +1,61 @@
+﻿  vmdetect.cpp
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(19,9): error C4235: Používá se nestandardní rozšíření: Klíčové slovo __asm není na této architektuře podporované.
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(22,13): error C2065: push: nedeklarovaný identifikátor
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(22,18): error C2146: Chyba syntaxe: Chybí ; před identifikátorem eax.
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(22,18): error C2065: eax: nedeklarovaný identifikátor
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(23,13): error C2146: Chyba syntaxe: Chybí ; před identifikátorem push.
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(23,13): error C2065: push: nedeklarovaný identifikátor
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(23,18): error C2146: Chyba syntaxe: Chybí ; před identifikátorem ebx.
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(23,18): error C2065: ebx: nedeklarovaný identifikátor
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(24,13): error C2146: Chyba syntaxe: Chybí ; před identifikátorem push.
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(24,13): error C2065: push: nedeklarovaný identifikátor
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(24,18): error C2146: Chyba syntaxe: Chybí ; před identifikátorem ecx.
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(24,18): error C2065: ecx: nedeklarovaný identifikátor
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(25,13): error C2146: Chyba syntaxe: Chybí ; před identifikátorem push.
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(25,13): error C2065: push: nedeklarovaný identifikátor
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(25,18): error C2146: Chyba syntaxe: Chybí ; před identifikátorem edx.
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(25,18): error C2065: edx: nedeklarovaný identifikátor
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(28,13): error C2146: Chyba syntaxe: Chybí ; před identifikátorem mov.
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(28,13): error C2065: mov: nedeklarovaný identifikátor
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(28,17): error C2146: Chyba syntaxe: Chybí ; před identifikátorem eax.
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(28,17): error C2065: eax: nedeklarovaný identifikátor
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(29,13): error C2146: Chyba syntaxe: Chybí ; před identifikátorem mov.
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(29,13): error C2065: mov: nedeklarovaný identifikátor
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(29,17): error C2146: Chyba syntaxe: Chybí ; před identifikátorem ecx.
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(29,17): error C2065: ecx: nedeklarovaný identifikátor
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(29,22): error C3688: Neplaná přípona literálu: Ah; nenašel se operátor literálu nebo šablona operátoru literálu operator ""Ah.
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(30,13): error C2146: Chyba syntaxe: Chybí ; před identifikátorem mov.
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(30,13): error C2065: mov: nedeklarovaný identifikátor
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(30,17): error C2146: Chyba syntaxe: Chybí ; před identifikátorem dx.
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(30,17): error C2065: dx: nedeklarovaný identifikátor
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(32,13): error C2146: Chyba syntaxe: Chybí ; před identifikátorem in.
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(32,13): error C2065: in: nedeklarovaný identifikátor
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(32,16): error C2146: Chyba syntaxe: Chybí ; před identifikátorem eax.
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(32,16): error C2065: eax: nedeklarovaný identifikátor
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(32,21): error C2065: dx: nedeklarovaný identifikátor
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(34,13): error C2146: Chyba syntaxe: Chybí ; před identifikátorem mov.
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(34,13): error C2065: mov: nedeklarovaný identifikátor
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(34,17): error C2146: Chyba syntaxe: Chybí ; před identifikátorem a.
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(34,20): error C2065: ebx: nedeklarovaný identifikátor
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(35,13): error C2146: Chyba syntaxe: Chybí ; před identifikátorem mov.
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(35,13): error C2065: mov: nedeklarovaný identifikátor
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(35,17): error C2146: Chyba syntaxe: Chybí ; před identifikátorem b.
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(35,20): error C2065: ecx: nedeklarovaný identifikátor
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(39,13): error C2146: Chyba syntaxe: Chybí ; před identifikátorem pop.
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(39,13): error C2065: pop: nedeklarovaný identifikátor
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(39,17): error C2146: Chyba syntaxe: Chybí ; před identifikátorem edx.
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(39,17): error C2065: edx: nedeklarovaný identifikátor
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(40,13): error C2146: Chyba syntaxe: Chybí ; před identifikátorem pop.
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(40,13): error C2065: pop: nedeklarovaný identifikátor
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(40,17): error C2146: Chyba syntaxe: Chybí ; před identifikátorem ecx.
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(40,17): error C2065: ecx: nedeklarovaný identifikátor
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(41,13): error C2146: Chyba syntaxe: Chybí ; před identifikátorem pop.
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(41,13): error C2065: pop: nedeklarovaný identifikátor
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(41,17): error C2146: Chyba syntaxe: Chybí ; před identifikátorem ebx.
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(41,17): error C2065: ebx: nedeklarovaný identifikátor
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(42,13): error C2146: Chyba syntaxe: Chybí ; před identifikátorem pop.
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(42,13): error C2065: pop: nedeklarovaný identifikátor
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(42,17): error C2146: Chyba syntaxe: Chybí ; před identifikátorem eax.
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(42,17): error C2065: eax: nedeklarovaný identifikátor
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(43,9): error C2143: Chyba syntaxe: Chybí ; před }.
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(15,1): error C1075: {: Nenašel se žádný odpovídající token.

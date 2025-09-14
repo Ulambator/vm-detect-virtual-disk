@@ -1,0 +1,4 @@
+﻿  vmdetect.cpp
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(294,7): warning C4409: neplatná velikost instrukce
+C:\Users\AK\source\repos\vmdetect\vmdetect.cpp(414,8): warning C4409: neplatná velikost instrukce
+  vmdetect.vcxproj -> C:\Users\AK\source\repos\vmdetect\Debug\vmdetect.exe
